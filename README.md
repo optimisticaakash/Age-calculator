@@ -52,5 +52,3 @@ GitHub: https://github.com/optimisticaakash
 
 <img width="1439" height="781" alt="image" src="https://github.com/user-attachments/assets/daa72ed1-e4c5-4c66-9407-377cd03be38f" />
 
-
-👨‍💻 Author
