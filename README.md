@@ -25,16 +25,7 @@ https://optimisticaakash.github.io/Age-calculator/
 
 ---
 
-## 📂 Project Structure
 
-Age-calculator/
-│
-├── index.html
-├── style.css
-├── app.js
-└── README.md
-
----
 
 ## 🚀 How It Works
 
